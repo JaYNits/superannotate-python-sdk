@@ -25,7 +25,7 @@ Follow the steps below to authorize SDK in a given team scope
 
 1. Get the authorization token from team’s [settings page](https://app.superannotate.com/team)  
 
-![](./figures/token.gif)  
+ <img align="center" width="1000" height="500" src="./figures/token.gif">
 
 Note that the token section is available only for team owners with *PRO* membership.   
 
