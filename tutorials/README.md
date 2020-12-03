@@ -24,7 +24,7 @@ Note that SDK functions work within the team scope of SuperAnnotate web platform
 Follow the steps below to authorize SDK in a given team scope  
 
 1. Get the authorization token from team’s [settings page](https://app.superannotate.com/team)  
-![token](/figures/token.gif)  
+![](./figures/token.gif)  
 Note that the token section is available only for team owners with *PRO* membership.   
 
 2. Run `superannotate init` in terminal and plug obtained token as requested.  
